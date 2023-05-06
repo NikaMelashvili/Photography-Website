@@ -39,7 +39,7 @@ small {
   height: 40px;
   justify-content: center;
   text-align: center;
-  left: 96%;
+  left: 90%;
   bottom: 17%;
   cursor: pointer;
 }
@@ -154,8 +154,8 @@ small {
   height: 40px;
   justify-content: center;
   text-align: center;
-  left: 96%;
-  bottom: 93%;
+  left: 90%;
+  top: 3%;
   cursor: pointer;
   z-index: 1000000000;
 }
@@ -979,7 +979,7 @@ h5 {
 .back-top {
   position: fixed;
   bottom: 17%;
-  left: 96%;
+  left: 90%;
   width: 40px;
   height: 40px;
   background-color: #e41c34;
@@ -1017,6 +1017,9 @@ h5 {
   small {
     display: block;
     text-align: center;
+  }
+  .hamburger {
+    right: 15%;
   }
   .introduction-left h2 {
     font-size: 50px;
