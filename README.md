@@ -1,1 +1,1 @@
-# phoyography-vanilla
+# photography-vanilla
