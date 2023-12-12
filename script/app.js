@@ -1,6 +1,6 @@
 "use strict";
 
-// DOM content  adn variables
+// DOM content  and variables
 
 const btn = document.getElementsByClassName("indicator");
 const slide = document.getElementById("slide");
