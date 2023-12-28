@@ -1,5 +1,5 @@
 # photography-vanilla
 
-Second version of the photography website for
-my client with much more features and better
-code
+Second Version of the Photography Website for my Client with Many More Features and Improved Code.
+
+https://photography-melashvili.netlify.app/
