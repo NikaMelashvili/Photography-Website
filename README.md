@@ -1,5 +1,3 @@
 # photography-vanilla
 
-Second Version of the Photography Website for my Client with Many More Features and Improved Code.
-
-
+I created a photography website using a design template from Canvas.
